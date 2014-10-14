@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>lin</groupId>
-  <artifactId>lin</artifactId>
+  <artifactId>lin.util</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20141014165045</lastUpdated>
+    <lastUpdated>20141014165054</lastUpdated>
   </versioning>
 </metadata>
